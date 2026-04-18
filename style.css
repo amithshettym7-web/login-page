@@ -1,17 +1,17 @@
 body{
-    background-color: black;
+    background-color:#007FFF;
+    display:flex;
+    justify-content:center;
+    align-items:center;
 }
 h1{
-    color:rgb(122, 114, 114)
+    color:black;
 }
 button{
     background-color: rgb(95, 75, 75);
     color: white;
-}
-input{
-    background-color:rgb(95, 75, 75) ;
-    color: white;
-}
-pre{
-    text-align: center;
+div {
+    display:flex;
+    justify-content:center;
+    align-items:center;
 }
